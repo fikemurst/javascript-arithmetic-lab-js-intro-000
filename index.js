@@ -1,1 +1,1 @@
-add (4, 5);
+function add (4, 5);
