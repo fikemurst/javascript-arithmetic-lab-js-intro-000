@@ -1,1 +1,1 @@
-function add (4, 5);
+5+4
